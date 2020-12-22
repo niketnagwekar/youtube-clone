@@ -16,7 +16,7 @@ function RecommendedVideos() {
                 />
                 <VideoCard  
                     views="1.3M views"
-                    image="https://i.ytimg.com/an_webp/uE0R6BjB4mI/mqdefault_6s.webp?du=3000&sqp=CPKYhv8F&rs=AOn4CLAkJrEchnQH68KbD-bl7Zxov_65ig"
+                    image="https://s01.sgp1.cdn.digitaloceanspaces.com/article/151269-nywkegcnzp-1606618462.jpg"
                     timestamp="3 days ago"
                     channel="Superstar Rocky"
                     channelImage="https://avatars2.githubusercontent.com/u/75846216?s=400&amp;u=b5ab77cd35a3552ada8e17da907a68fe3a86c63c&amp;v=4"
@@ -40,7 +40,7 @@ function RecommendedVideos() {
                 />
                 <VideoCard  
                     views="1.3M views"
-                    image="https://i.ytimg.com/an_webp/QpayOqNHxxM/mqdefault_6s_480x270.webp?du=3000&sqp=CKOihv8F&rs=AOn4CLAjfMfDhEJ-7FrygWXiyp74p-15CQ"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuOFcqxg0ADSDCa4oRkepriCn0JZuXbSaUA&usqp=CAU"
                     timestamp="3 days ago"
                     channel="Superstar Rocky"
                     channelImage="https://avatars2.githubusercontent.com/u/75846216?s=400&amp;u=b5ab77cd35a3552ada8e17da907a68fe3a86c63c&amp;v=4"
@@ -64,7 +64,7 @@ function RecommendedVideos() {
                 />
                 <VideoCard  
                     views="1.3M views"
-                    image="https://i.ytimg.com/an_webp/Ur6zKAJnybQ/mqdefault_6s.webp?du=3000&sqp=CJyjhv8F&rs=AOn4CLCeRde0LVyvgdLgUi0dgN-4Ybq5BQ"
+                    image="http://www.mycricketzone.com/wp-content/uploads/2017/05/images-11.jpg"
                     timestamp="3 days ago"
                     channel="Superstar Rocky"
                     channelImage="https://avatars2.githubusercontent.com/u/75846216?s=400&amp;u=b5ab77cd35a3552ada8e17da907a68fe3a86c63c&amp;v=4"
@@ -96,7 +96,7 @@ function RecommendedVideos() {
                 />
                 <VideoCard  
                     views="1.3M views"
-                    image="https://i.ytimg.com/an_webp/Rw-mnGSuYas/mqdefault_6s.webp?du=3000&sqp=CL2dhv8F&rs=AOn4CLBr5OzQ1l3NRrN9ezWJW8zFqQ5NHg"
+                    image="https://www.liveclefs.com/wp-content/uploads/2018/10/412F94FD-BF8A-4338-BD5A-4B02A2392B96.jpeg"
                     timestamp="3 days ago"
                     channel="Superstar Rocky"
                     channelImage="https://avatars2.githubusercontent.com/u/75846216?s=400&amp;u=b5ab77cd35a3552ada8e17da907a68fe3a86c63c&amp;v=4"
